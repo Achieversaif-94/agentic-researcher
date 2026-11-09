@@ -1,0 +1,7 @@
+﻿crewai
+crewai-tools
+streamlit
+ddgs
+groq
+python-dotenv
+litellm
