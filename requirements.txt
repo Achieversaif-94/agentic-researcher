@@ -4,4 +4,4 @@ streamlit
 ddgs
 groq
 python-dotenv
-litellm
+litellm<1.106
