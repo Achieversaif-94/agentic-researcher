@@ -1,4 +1,4 @@
-﻿crewai
+crewai
 crewai-tools
 streamlit
 ddgs
